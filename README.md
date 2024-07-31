@@ -92,15 +92,6 @@ This project demonstrates the development of a robust sales data analysis platfo
 - **Actionable Insights**: Enabled stakeholders to identify key trends and make data-driven decisions. 🧠
 - **Streamlined Workflow**: Integrated AWS services to automate data processing and reporting. ⚙️
 
-### Contributors
-
-- Santanu Adhikary (2320846) 👨‍💻
-- E. Divya Sree (2320625) 👩‍💻
-- A.N.V. Rohit (2320408) 👨‍💻
-- Sanmith Chetan N (2320907) 👨‍💻
-- Shashank K Hulmani (2320613) 👨‍💻
-- Vivechan Gowda G.C (2320755) 👨‍💻
-
 For a comprehensive guide, refer to the full project documentation. 📚
 
 ### License
