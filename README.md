@@ -65,3 +65,46 @@ This project demonstrates the development of a robust sales data analysis platfo
   FORMAT AS CSV
   DELIMITER ','
   REGION 'region';
+
+### Data Cleaning
+
+- **Convert Data Types**: Adjust data types and clean inconsistencies, such as formatting the `invoice_date` column. 🧹
+- **Resolve Data Mismatches**: Address inconsistencies in columns like `Total_Sales` and `Operating_Profit`. 🔍
+
+### Data Analysis
+
+- **SQL Queries**: Execute aggregations and calculations to analyze sales data.
+  - **By Product**: Aggregate total sales and units sold by product. 📦
+  - **By Region**: Analyze sales revenue by region. 🌍
+  - **By Time Period**: Evaluate sales trends over daily, monthly, and quarterly intervals. 📅
+
+### Data Visualization
+
+- **QuickSight Integration**: Import data from Redshift into Amazon QuickSight. 🔄
+- **Dashboard Creation**: Develop interactive dashboards to visualize sales performance, trends, and patterns.
+  - **Units Sold**: Plot sales data by day, month, quarter, and year. 📊
+  - **Top Products**: Highlight the top-performing products. 🏆
+  - **Regional Sales**: Visualize sales distribution across different regions. 🌎
+
+### Results
+
+- **Enhanced Tracking**: Improved accuracy and efficiency in tracking sales data and performance. ✅
+- **Actionable Insights**: Enabled stakeholders to identify key trends and make data-driven decisions. 🧠
+- **Streamlined Workflow**: Integrated AWS services to automate data processing and reporting. ⚙️
+
+### Contributors
+
+- Santanu Adhikary (2320846) 👨‍💻
+- E. Divya Sree (2320625) 👩‍💻
+- A.N.V. Rohit (2320408) 👨‍💻
+- Sanmith Chetan N (2320907) 👨‍💻
+- Shashank K Hulmani (2320613) 👨‍💻
+- Vivechan Gowda G.C (2320755) 👨‍💻
+
+For a comprehensive guide, refer to the full project documentation. 📚
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
+
+
