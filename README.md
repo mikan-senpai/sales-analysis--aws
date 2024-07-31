@@ -66,19 +66,19 @@ This project demonstrates the development of a robust sales data analysis platfo
   DELIMITER ','
   REGION 'region';
 
-### Data Cleaning
+### 5. Data Cleaning
 
 - **Convert Data Types**: Adjust data types and clean inconsistencies, such as formatting the `invoice_date` column. 🧹
 - **Resolve Data Mismatches**: Address inconsistencies in columns like `Total_Sales` and `Operating_Profit`. 🔍
 
-### Data Analysis
+### 6. Data Analysis
 
 - **SQL Queries**: Execute aggregations and calculations to analyze sales data.
   - **By Product**: Aggregate total sales and units sold by product. 📦
   - **By Region**: Analyze sales revenue by region. 🌍
   - **By Time Period**: Evaluate sales trends over daily, monthly, and quarterly intervals. 📅
 
-### Data Visualization
+### 7. Data Visualization
 
 - **QuickSight Integration**: Import data from Redshift into Amazon QuickSight. 🔄
 - **Dashboard Creation**: Develop interactive dashboards to visualize sales performance, trends, and patterns.
